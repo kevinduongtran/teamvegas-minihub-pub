@@ -7,7 +7,13 @@ A NodeJS server provide communication between Nest and Samsung SmartThings (beca
 NodeJS
 
 ### Installing
-Just run
+Run inside /server
+
+```
+npm install
+```
+
+Run inside /server/vendor
 
 ```
 npm install
